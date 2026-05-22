@@ -123,3 +123,10 @@ ENV/
 # IDEs and editors
 .idea/
 .DS_Store
+
+**/*.ipynb_checkpoints/
+.virtual_documents
+__pycache__/
+output/
+cache/
+data/
