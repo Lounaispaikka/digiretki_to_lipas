@@ -1,3 +1,11 @@
+"""
+Point-object deduplication pipeline. See notebooks/point_deduplicator/README.md 
+
+Used as a library module:
+ - notebooks/point_deduplicator/point_deduplicator.ipynb
+
+"""
+
 import pandas as pd
 from rapidfuzz import fuzz
 

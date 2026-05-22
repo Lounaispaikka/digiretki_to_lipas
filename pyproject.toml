@@ -1,0 +1,35 @@
+[project]
+name = "digiretki-to-lipas"
+version = "0.1.0"
+description = "Point-object deduplication pipeline for lipas.fi integration"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2",
+    "rapidfuzz>=3",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+    "ruff>=0.15.14",
+]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "UP", "B", "SIM", "ARG"]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.mypy]
+python_version = "3.12"
+strict = false
+ignore_missing_imports = true
+warn_unused_configs = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
