@@ -1,0 +1,63 @@
+	Emmi Ylikoski	Tue Apr 14 14:30:46 2026 +0300	Update lipas_synchronization_solution.md
+	Emmi Ylikoski	Tue Apr 14 14:00:39 2026 +0300	Merge pull request #15 from Lounaispaikka/point_deduplikator_cleaning
+	emmiylikoski	Tue Apr 7 16:01:34 2026 +0300	deleted one file
+	emmiylikoski	Tue Apr 7 16:00:09 2026 +0300	final tweaks to notebook template
+	emmiylikoski	Tue Apr 7 12:47:54 2026 +0300	updated gitignore
+	emmiylikoski	Tue Apr 7 12:46:42 2026 +0300	small tweaks
+	emmiylikoski	Tue Apr 7 12:38:09 2026 +0300	repo reorganization
+	emmiylikoski	Tue Apr 7 12:34:51 2026 +0300	added a read.me to the point_deduplicator notebook
+	emmiylikoski	Tue Mar 31 16:18:15 2026 +0300	point deduplication somewhat finished
+	emmiylikoski	Tue Mar 31 11:04:14 2026 +0300	started deduplication documentation, repository reorder
+	emmiylikoski	Mon Mar 30 16:06:18 2026 +0300	point deduplicator source code done
+	emmiylikoski	Thu Mar 26 15:57:55 2026 +0200	lipas_export_routes_check
+	emmiylikoski	Mon Mar 9 16:11:25 2026 +0200	reorganization of the files
+	emmiylikoski	Mon Mar 9 16:09:00 2026 +0200	updated the type_mapping_documentation
+	Emmi Ylikoski	Mon Mar 9 14:19:13 2026 +0200	Merge pull request #14 from Lounaispaikka/properties_script
+	emmiylikoski	Mon Mar 9 14:16:12 2026 +0200	route deduplication, properties script, messy will clean next
+	emmiylikoski	Mon Dec 1 13:17:44 2025 +0200	Merge pull request #13 from Lounaispaikka/synchro_usage
+	emmiylikoski	Mon Dec 1 13:16:25 2025 +0200	minor updates to usage manual
+	emmiylikoski	Thu Nov 27 13:02:47 2025 +0200	Made instructions on how to synchronize data specially for Lounaistieto
+	emmiylikoski	Wed Nov 26 10:10:33 2025 +0200	Create lipas_synchronization_käyttöohjeet.md
+	emmiylikoski	Wed Nov 26 10:07:11 2025 +0200	Merge pull request #12 from Lounaispaikka/lipas_syncro_doc
+	emmiylikoski	Wed Nov 12 15:58:09 2025 +0200	notes/questions about documentation
+	emmiylikoski	Wed Nov 12 11:29:49 2025 +0200	Enhanced keeping data up to date section
+	emmiylikoski	Tue Nov 11 16:48:25 2025 +0200	wrote the data model and keeping data up to date
+	emmiylikoski	Tue Nov 11 15:18:46 2025 +0200	opened up data model
+	emmiylikoski	Tue Nov 11 12:11:29 2025 +0200	data model table
+	emmiylikoski	Tue Nov 11 10:52:58 2025 +0200	started lipas_syncronization documentation
+	Koivunen	Mon Nov 10 13:20:40 2025 +0200	Lipas synchronization solution WIP
+	emmiylikoski	Thu Sep 25 16:24:29 2025 +0300	Update muistiinpanot_Emmi.md
+	emmiylikoski	Mon Aug 11 16:45:38 2025 +0300	Update muistiinpanot_Emmi.md
+	emmiylikoski	Mon Aug 11 16:45:09 2025 +0300	Update muistiinpanot_Emmi.md
+	emmiylikoski	Mon Aug 11 16:44:40 2025 +0300	Update muistiinpanot_Emmi.md
+	emmiylikoski	Mon Aug 11 16:43:53 2025 +0300	muistiinpanojen muokkausta
+	emmiylikoski	Mon Aug 11 16:40:28 2025 +0300	Update muistiinpanot_Emmi.md
+	emmiylikoski	Mon Aug 11 16:39:58 2025 +0300	Update muistiinpanot_Emmi.md
+	emmiylikoski	Fri Jul 4 09:43:04 2025 +0300	Merge pull request #11 from Lounaispaikka/more_boolean_info
+	emmiylikoski	Fri Jul 4 09:38:01 2025 +0300	updated notes
+	emmiylikoski	Thu Jul 3 16:05:58 2025 +0300	Update muistiinpanot_Emmi.md
+	emmiylikoski	Thu Jul 3 16:05:04 2025 +0300	Update muistiinpanot_Emmi.md
+	emmiylikoski	Thu Jul 3 16:01:33 2025 +0300	added to notes some analysis on LIPAS UI
+	emmiylikoski	Thu Jul 3 15:42:14 2025 +0300	added the boolean toilet code and column into dataset
+	emmiylikoski	Thu Jul 3 14:55:10 2025 +0300	added gid to our accessibility dataset
+	emmiylikoski	Tue Jul 1 15:57:12 2025 +0300	Update muistiinpanot_Emmi.md
+	emmiylikoski	Tue Jul 1 15:27:57 2025 +0300	Update README.md
+	emmiylikoski	Tue Jul 1 15:17:07 2025 +0300	Merge pull request #10 from Lounaispaikka/mapping_table
+	emmiylikoski	Tue Jul 1 12:32:48 2025 +0300	mapping documentation finished
+	emmiylikoski	Tue Jul 1 10:28:53 2025 +0300	type mapping table and documentation
+	emmiylikoski	Mon Jun 30 16:32:46 2025 +0300	Merge pull request #9 from Lounaispaikka/accessibility_info
+	emmiylikoski	Mon Jun 30 15:40:30 2025 +0300	some git confusion
+	emmiylikoski	Mon Jun 30 15:31:43 2025 +0300	added some documentation to accessibility code and added .env file
+	emmiylikoski	Mon Jun 30 15:23:33 2025 +0300	Delete src/possible_bool_columns/accesibil.ipynb
+	emmiylikoski	Mon Jun 30 14:55:39 2025 +0300	boolean accessibility info
+	emmiylikoski	Thu Jun 26 15:48:50 2025 +0300	new directory
+	emmiylikoski	Thu Jun 26 15:44:43 2025 +0300	Merge pull request #8 from Lounaispaikka/point_deduplicator
+	emmiylikoski	Thu Jun 26 15:41:29 2025 +0300	Update muistiinpanot_Emmi.md
+	emmiylikoski	Thu Jun 26 15:35:17 2025 +0300	Update muistiinpanot_Emmi.md
+	emmiylikoski	Tue Jun 24 16:03:21 2025 +0300	added my notes
+	emmiylikoski	Tue Jun 24 15:19:01 2025 +0300	added a description for point deduplicator
+	emmiylikoski	Thu Jun 19 16:39:49 2025 +0300	updated .gitignore and cleared outputs from notebook
+	eoylik	Thu Jun 19 16:00:09 2025 +0300	more subdirectories
+	eoylik	Thu Jun 19 15:54:07 2025 +0300	point deduplication prototyping, will clean code after midsummer
+	Koivunen	Thu Jun 19 14:49:54 2025 +0300	Create LICENSE.md
+	Koivunen	Thu Apr 24 14:52:00 2025 +0300	Create README.md

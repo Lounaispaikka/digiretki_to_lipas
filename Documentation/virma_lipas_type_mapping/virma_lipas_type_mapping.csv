@@ -1,0 +1,66 @@
+"id","virma_class2_fi","lipas_type_name","lipas_type_code","confirmed","lipas_loi_type"
+5,Virkistykseen liittyvä erityiskohde,,,false,
+7,Päivälaavu tai -kota,"Laavu, kota tai kammi",301,false,
+12,Matkailureitti,,,false,
+13,Tupa,Tupa,302,false,
+16,Käyntisatama,Veneilyn palvelupaikka,203,false,
+17,Opastuskeskus,Opastuspiste,207,false,
+18,Talviuimapaikka,Talviuintipaikka,3240,false,
+26,Virkistysreitin lähtöpiste,Opastuspiste,207,false,
+27,Tulipaikka,Ruoanlaitto-/tulentekopaikka,206,false,
+28,Opaspalvelu,Opastuspiste,207,false,
+31,Vierassatama,Veneilyn palvelupaikka,203,false,
+37,Uimaranta,Uimaranta,3220,false,
+38,Retkeilyreitti,Retkeilyreitti,4405,false,
+39,Kalastuspaikka,Kalastuskohde (piste),201,false,
+40,Uimapaikka,Uimapaikka,3230,false,
+44,Luonto- tai lintutorni,Luontotorni,204,false,
+45,Ulkoilu- tai hiihtomaja,Ulkoilumaja/hiihtomaja,304,false,
+47,Telttailupaikka,Telttailu ja leiriytyminen,202,false,
+49,Kuntoreitti,Kuntorata,4401,false,
+50,Moottorirata,Moottoripyöräilyalue,5320,false,
+52,Muu virkistystä tukeva palvelu,,,false,
+53,Kulttuuripalvelu,,,false,
+55,Leirintä- tai caravanalue,Telttailu ja leiriytyminen,202,false,
+56,Opastuspiste,Opastuspiste,207,false,
+57,Retki- tai luonnonsatama,Veneilyn palvelupaikka,203,false,
+58,Melontareitti,Melontareitti,4451,false,
+61,Maastopyöräilyreitti,Maastopyöräilyreitti,4411,false,
+62,Palvelusatama,Veneilyn palvelupaikka,203,false,
+64,Luontopolku,Luontopolku,4404,false,
+65,Pyöräilyreitti,Pyöräilyreitti,4412,false,
+68,Hevosreitti,Hevosreitti,4430,false,
+14,Veneenlaskupaikka,,,false,boat-ramp
+43,Yöpymislaavu tai -kota,"Laavu, kota tai kammi",301,false,
+51,Varauslaavu tai -kota,"Laavu, kota tai kammi",301,false,
+4,Majoituspalvelu,,,false,accommodation-rental
+6,Yhteysaluslaituri,,,false,passenger-ferry
+8,Retkeilyä palveleva parkkipaikka,,,false,parking-spot
+10,Levähdyspaikka,,,false,rest-area
+11,Luonnonmuistomerkki tai näköalapaikka,,,false,monument
+15,Sauna,,,false,sauna
+19,Varaussauna,,,false,sauna-rental
+24,Tilavuokraus- tai kokouspalvelu,,,false,space-rental
+29,Yleisö-wc tai -puucee,,,false,wc
+34,Polttopuusuoja,,,false,woodshed
+54,Jätepiste,,,false,waste-disposal-point
+67,Vesipiste,,,false,water-source
+69,Lähde tai kaivo,,,false,well
+2,Vieraslaituri,,,false,guest-boat-dock
+72,Luonnonmuistomerkki tai näköalapaikka,,,false,viewpoint
+73,Yleisö-wc tai -puucee,,,false,dry-toilet
+21,Leirikeskus,,,false,accommodation-rental
+9,Rantautumispaikka,Veneilyn palvelupaikka,203,false,
+3,Kulttuuriulkoilureitti,Kävelyreitti/ulkoilureitti,4403,false,
+30,Latu,Hiihtolatu,4402,false,
+20,Ruokapalvelu,,,true,
+42,Retkilatu,Hiihtolatu,4402,false,
+32,Myymälä,,,true,
+35,Ohjelma- tai elämyspalvelu,,,true,
+41,Kahvila,,,true,
+63,Ravintola,,,true,
+1,Ankkuripaikka,Veneilyn palvelupaikka,203,false,
+22,Suojasatama,Veneilyn palvelupaikka,203,false,
+25,Hätäsatama,Veneilyn palvelupaikka,203,false,
+74,Luonnonmuistomerkki tai näköalapaikka,,,false,viewing-platform
+36,Keittokatos- / ruoanlaittopaikka,Ruoanlaitto-/tulentekopaikka,206,false,
