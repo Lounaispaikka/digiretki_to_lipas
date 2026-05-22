@@ -2,7 +2,7 @@
 
 A reusable geodata point and route information transfer pipeline for submitting new places to the [lipas.fi](https://lipas.fi/) national database (with deduplication) for further inclusion in the [luontoon.fi](https://luontoon.fi/) national outdoor recreation portal.
 
-We have used this solution to transfer the dataset of [Virma](https://virma.fi/) to [Lipas](https://lipas.fi/) semi-automatically. Hopefully it can be of use for your organization. The target audience of this repository are GIS-developers and it is not usable without knowledge about Python programming, GIS geodata and Jupyter Notebooks. 
+We have used this solution to transfer the dataset of [Virma](https://virma.fi/) to [Lipas](https://lipas.fi/) semi-automatically. Hopefully it can be of use for your organization. The target audience of this repository are GIS-developers and it is not usable without knowledge about Python programming, NLP, GIS geodata and Jupyter Notebooks. 
 
 **More on the [Digiretki](https://tt.utu.fi/sweng/digiretki/) project [here](https://tt.utu.fi/sweng/digiretki/).**
 
@@ -14,7 +14,7 @@ Paikkatietojen siirtoratkaisu tiedon lähettämiseksi [lipas.fi](https://lipas.f
 
 Olemme käyttäneet tätä ratkaisua Virman-tietoaineiston puoliautomaattiseen siirtämiseen Lipakseen. Toivottavasti ratkaisusta on hyötyä organisaatiollenne.
 
-Tämän ohjelmistoprojektin/repon kohderyhmänä ovat paikkatietokehittäjät, eikä sitä voi käyttää ilman Python-ohjelmoinnin, paikkatietoaineistojen ja Jupyter Notebookien tuntemusta.
+Tämän ohjelmistoprojektin/repon kohderyhmänä ovat paikkatietokehittäjät, eikä sitä voi käyttää ilman Python-ohjelmoinnin, NLP:n, paikkatietoaineistojen ja Jupyter Notebookien tuntemusta.
 
 **Lisätietoja [Digiretki](https://tt.utu.fi/sweng/digiretki-fi/) -projektista [täällä](https://tt.utu.fi/sweng/digiretki-fi/).**
 
@@ -28,7 +28,14 @@ Tämän ohjelmistoprojektin/repon kohderyhmänä ovat paikkatietokehittäjät, e
 ## Notebooks
 
 - [`point_deduplicator.ipynb`](notebooks/point_deduplicator/point_deduplicator.ipynb) — match point objects across datasets
-- [`route_deduplicator.ipynb`](notebooks/route_deduplication/route_deduplicator.ipynb) — deduplicate route data
+- [`route_deduplicator.ipynb`](notebooks_not_cleaned/routes/route_deduplication.ipynb) — deduplicate route data
+
+Experimental:
+- [`virma_lipas_matched.ipynb`](notebooks_not_cleaned/virma_lipas_matched.ipynb) — experimental point deduplication for Virma–Lipas matching (uses KNN + category/name similarity)
+- [`routes/properties.ipynb`](notebooks_not_cleaned/routes/properties.ipynb) — route property extraction and classification using AI
+- [`properties/json_properties.ipynb`](notebooks_not_cleaned/properties/json_properties.ipynb) — analyze JSON properties from point data
+- [`possible_bool_columns/wc_bool.ipynb`](notebooks_not_cleaned/possible_bool_columns/wc_bool.ipynb) — boolean column analysis for toilets
+- [`possible_bool_columns/accesibil.ipynb`](notebooks_not_cleaned/possible_bool_columns/accesibil.ipynb) — accessibility info boolean classification using AI
 
 Launch with [uv](https://docs.astral.sh/uv/):
 
