@@ -11,7 +11,9 @@ We have used this solution to transfer the dataset of Virma to Lipas semi-automa
 ## Suomeksi: Digiretki - Tiedonsiirtoratkaisu
 Paikkatietojen siirtoratkaisu tiedon lähettämiseksi [lipas.fi](https://lipas.fi/) kansalliseen tietokantaan (*kopioiden/duplikaattien tunnistuksella*).
 
-Olemme käyttäneet tätä ratkaisua Virman-tietoaineiston siirtämiseen puoliautomaattisesti Lipakseen. Toivottavasti ratkaisusta on hyötyä organisaatiollenne. Tämän repon kohderyhmä ovat paikkatietokehittäjät, eikä sitä voida käyttää ilman Python-ohjelmoinnin, paikkatietoaineiston ja Jupyter Notebookien tuntemusta.
+Olemme käyttäneet tätä ratkaisua Virman-tietoaineiston puoliautomaattiseen siirtämiseen Lipakseen. Toivottavasti ratkaisusta on hyötyä organisaatiollenne.
+
+Tämän ohjelmistoprojektin/repon kohderyhmänä ovat paikkatietokehittäjät, eikä sitä voi käyttää ilman Python-ohjelmoinnin, paikkatietoaineistojen ja Jupyter Notebookien tuntemusta.
 
 **Lisätietoja [Digiretki](https://tt.utu.fi/sweng/digiretki-fi/) -projektista [täällä](https://tt.utu.fi/sweng/digiretki-fi/).**
 
