@@ -1,10 +1,19 @@
 # Digiretki — Data Transfer Solution
 
-Point object deduplication pipeline for matching outdoor recreation data with the [lipas.fi](https://lipas.fi/) national database.
+A reusable geodata point and route information transfer pipeline for submitting data to the [lipas.fi](https://lipas.fi/) national database (with deduplication).
+
+We have used this solution to transfer the dataset of Virma to Lipas semi-automatically. Hopefully it can be of use for your organization. The target audience of this repository are GIS-developers and it is not usable without knowledge about Python programming, GIS geodata and Jupyter Notebooks. 
 
 **More on the [Digiretki](https://tt.utu.fi/sweng/digiretki/) project [here](https://tt.utu.fi/sweng/digiretki/).**
 
 ![](Documentation/banner.png)
+
+## Suomeksi: Digiretki - Tiedonsiirtoratkaisu
+Paikkatietojen siirtoratkaisu tiedon lähettämiseksi [lipas.fi](https://lipas.fi/) kansalliseen tietokantaan (*kopioiden/duplikaattien tunnistuksella*).
+
+Olemme käyttäneet tätä ratkaisua Virman-tietoaineiston siirtämiseen puoliautomaattisesti Lipakseen. Toivottavasti ratkaisusta on hyötyä organisaatiollenne. Tämän repon kohderyhmä ovat paikkatietokehittäjät, eikä sitä voida käyttää ilman Python-ohjelmoinnin, paikkatietoaineiston ja Jupyter Notebookien tuntemusta.
+
+**Lisätietoja [Digiretki](https://tt.utu.fi/sweng/digiretki-fi/) -projektista [täällä](https://tt.utu.fi/sweng/digiretki-fi/).**
 
 ## Documentation
 
@@ -23,6 +32,14 @@ Launch with [uv](https://docs.astral.sh/uv/):
 ```bash
 uv run jupyter lab
 ```
+
+## Related
+ - https://github.com/Lounaispaikka/virma_backend#point-example-from-virmafi (source system)
+ - https://github.com/lipas-liikuntapaikat/lipas (target system)
+ - https://github.com/Lounaispaikka/virma_lipas (other direction continuous importing from lipas to you)
+ - https://github.com/koivunen/visitfinland-scrape
+ - https://virma.fi/
+ - https://virma.lounaistieto.fi/
 
 ## License
 
