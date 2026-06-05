@@ -37,14 +37,14 @@ def classify_matches(df, type_col, class_col, name1_col=None, name2_col=None):
     df = df.copy()
 
     condition = (
-        (df[type_col] == df["mapped_lipas_category"]) |
-        (df[type_col] == df[class_col])
+        (df[type_col] == df["mapped_lipas_category"]).fillna(False) |
+        (df[type_col] == df[class_col]).fillna(False)
     )
 
     if name1_col and name2_col:
-        condition = condition | (df[name1_col] == df[name2_col])
+        condition = condition | (df[name1_col] == df[name2_col]).fillna(False)
 
-    df["category_match"] = condition
+    df["category_match"] = condition.astype(bool)
 
     return df
 
