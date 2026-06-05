@@ -104,8 +104,8 @@ def keep_best_row_match(df, id_col, name1_col, name2_col, threshold=75):
                 # Neither row good enough → move all duplicates to review
                 review_rows.extend(group.to_dict('records'))
     
-    filtered_df = pd.DataFrame(filtered_rows).reset_index(drop=True)
-    review_df = pd.DataFrame(review_rows).reset_index(drop=True)
+    filtered_df = pd.DataFrame(filtered_rows, columns=df.columns).reset_index(drop=True)
+    review_df = pd.DataFrame(review_rows, columns=df.columns).reset_index(drop=True)
     
     return filtered_df, review_df
 
@@ -122,8 +122,8 @@ def compare_name_similarity(df, name1_col, name2_col, threshold=75):
         else:
             mismatching_rows.append(row)
 
-    matching_rows_df = pd.DataFrame(matching_rows).reset_index(drop=True)
-    mismatching_rows_df = pd.DataFrame(mismatching_rows).reset_index(drop=True)
+    matching_rows_df = pd.DataFrame(matching_rows, columns=df.columns).reset_index(drop=True)
+    mismatching_rows_df = pd.DataFrame(mismatching_rows, columns=df.columns).reset_index(drop=True)
     
     return matching_rows_df, mismatching_rows_df
 
