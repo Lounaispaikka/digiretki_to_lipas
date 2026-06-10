@@ -1,0 +1,26 @@
+﻿id;tammireitti_tyyppi;lipas_type_name;lipas_type_code;confirmed;lipas_loi_type
+1;Pysakointi_liikeste;;;FALSE;parking-spot
+2;Luontotorni;Luontotorni;204;FALSE;
+3;Taukopaikka;;;FALSE;rest-area
+4;Portaat;;;FALSE;stairs
+5;Tulipaikka;;;FALSE;fire-pit
+6;Vesillelasku;;;FALSE;boat-ramp
+7;Pysakointialue;;;FALSE;parking-spot
+8;Kahvila;;;TRUE;
+9;Opastaulu;;;FALSE;information-board
+10;Nahtavyys;;;FALSE;building
+11;Silta;;;FALSE;bridge
+12;Luonnonnahtavyys;;;FALSE;natural-attraction
+13;Rantautuminen;Rantautumispaikka;205;FALSE;
+14;Nakoala;;;FALSE;viewpoint
+15;Kuivakaymala;;;FALSE;dry-toilet
+16;Uimaranta;Uimaranta;3220;FALSE;
+17;Infopiste;Opastuspiste;207;FALSE;
+18;Aktiviteetti;;;TRUE;
+19;Tilamyynti;;;TRUE;building
+20;Majoitus;;;FALSE;accommodation-rental
+21;Polttopuuvarasto;;;FALSE;woodshed
+22;Laavu;Laavu, kota tai kammi;301;FALSE;
+23;Kierratys;;;FALSE;recycling-point
+24;Esteeton;Kävelyreitti/ulkoilureitti;4403;FALSE;
+25;Ohituspolku;Kävelyreitti/ulkoilureitti;4403;FALSE;
