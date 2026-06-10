@@ -17,7 +17,7 @@
 16;Uimaranta;Uimaranta;3220;FALSE;
 17;Infopiste;Opastuspiste;207;FALSE;
 18;Aktiviteetti;;;TRUE;
-19;Tilamyynti;;;TRUE;building
+19;Tilamyynti;;;FALSE;building
 20;Majoitus;;;FALSE;accommodation-rental
 21;Polttopuuvarasto;;;FALSE;woodshed
 22;Laavu;Laavu, kota tai kammi;301;FALSE;
