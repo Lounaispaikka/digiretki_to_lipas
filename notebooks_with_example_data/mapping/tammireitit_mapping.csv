@@ -1,0 +1,348 @@
+omistaja,yllapitaja,tyyppi,lisatieto,kunta,reitti,kohde,sijainti,palvelut,linkki,rotate,source_id,y_eureffin,geometry,x_eureffin
+Muu,Yksityinen / yhdistys,Pysakointi_liikeste,,Kaarina,Tuorlan esteetön luontopolku,Pysäköintialue,Avaruuspuisto Väisälä,,,,1,6706328.87667998,Point (249254.10773236 6706328.87667998),249254.10773236
+,,Luontotorni,,Lieto,Nautelankosken luonnonsuojelualueen polut / Aurajoen melontareitti,Näkötorni,Nautelankoski,,,,2,6721945.29509979,Point (251156.5587388 6721945.29509979),251156.558738795
+,,Taukopaikka,,Lieto,Ankka-Nautela luontopolku,Taukopaikka,,,,,3,6719839.44475257,Point (251867.14358549 6719839.44475257),251867.143585485
+,,Portaat,,Lieto,Vanhalinnan Ystävänpolku,Portaat,Vanhalinna,,,,4,6713795.08835029,Point (245642.85277503 6713795.08835029),245642.852775033
+,,Tulipaikka,,Lieto,Ankka-Nautela luontopolku,Laavu,Liesan maja,,,,5,6719120.08476801,Point (252165.38334025 6719120.08476801),252165.383340254
+,,Tulipaikka,Hamppukota ja tulipaikka,Lieto,Hämeen Härkätie,Kota,Parmaharju,,,,6,6718069.0147056,Point (255896.51124869 6718069.0147056),255896.511248687
+Kunta,Kunta / muu,Luontotorni,,Lieto,Littoistenjärven luontopolku / Kuuden kunnanosan kierros,Lintutorni,Järvelä,,,,7,6711691.87185586,Point (246292.61084938 6711691.87185586),246292.610849377
+,,Taukopaikka,Katettu eväspöytä ja penkit,Lieto,Ankka-Nautela luontopolku,Taukopaikka,Poso,,,,8,6721241.91135619,Point (252719.15393824 6721241.91135619),252719.153938245
+,,Portaat,"Pitkät, puiset portaat",Lieto,Nautelankosken luonnonsuojelualueen polut / Aurajoen melontareitti,Portaat,Nautelankoski,,,,9,6721921.53129717,Point (251154.85681026 6721921.53129717),251154.85681026
+,,Vesillelasku,,Lieto,Aurajoen melontareitti,Laituri,Liedon Vanhalinna,,,,10,6714696.28847793,Point (246118.68547878 6714696.28847793),246118.685478776
+,,Pysakointialue,,Lieto,Ankka-Nautela luontopolku,Pysäköintialue,Ankka,,,,11,6718782.69654153,Point (252819.28634011 6718782.69654153),252819.286340106
+,,Pysakointialue,,Lieto,Ankka-Nautela luontopolku,Pysäköintialue,Pieneläinhautausmaa,,,,12,6719507.24923929,Point (251972.21802981 6719507.24923929),251972.218029807
+,,Pysakointialue,,Lieto,Ankka-Nautela luontopolku / Kuuden kunnanosan kierros / Nautelankosken luonnonsuojelualueen polut,Pysäköintialue,Nautelankoski,,,,13,6722345.25571612,Point (250850.16689052 6722345.25571612),250850.166890521
+,,Pysakointialue,,Lieto,Littoistenjärven luontopolku / Kuuden kunnanosan kierros,Pysäköintialue,Järvelä,,,,14,6711471.34295926,Point (246463.06878811 6711471.34295926),246463.068788112
+,,Pysakointialue,,Lieto,Hämeen Härkätie / Kuuden kunnanosan kierros / Vanhalinnan kulttuuri- ja luontopolut,Pysäköintialue,Liedon Vanhalinna,,,,15,6714554.330952,Point (246313.95417155 6714554.330952),246313.954171553
+,,Pysakointialue,,Lieto,Hämeen Härkätie / Kuuden kunnanosan kierros,Pysäköintialue,Liedon kaupungintalo,,,,16,6716563.12650024,Point (250326.31501163 6716563.12650024),250326.315011634
+,,Kahvila,Vanhalinna,Lieto,Hämeen Härkätie / Kuuden kunnanosan kierros / Vanhalinnan kulttuuri- ja luontopolut,Kartanon päärakennus,Liedon Vanhalinna,Vanhalinnan palvelut,https://vanhalinna.fi/,,17,6714480.4595376,Point (246196.54214042 6714480.4595376),246196.54214042
+,,Kahvila,Nautelankosken museo,Lieto,Kuuden kunnanosan kierros / Nautelankosken luonnonsuojelualueen polut / Ankka-Nautela luontopolku,Nautelankosken museo,Nautelankoski,Nautelankosken museon palvelut,https://www.liedonmuseo.fi/,,18,6722378.42113587,Point (250882.41123647 6722378.42113587),250882.411236469
+,,Opastaulu,,Lieto,Kuuden kunnanosan kierros,Tammireittien opastaulu,Verkatehdas,,,,19,6710317.16522442,Point (247346.79417259 6710317.16522442),247346.794172588
+,,Opastaulu,,Lieto,Kuuden kunnanosan kierros,Tammireittien opastaulu,Saukonoja,,,,20,6714239.15701292,Point (253280.22588764 6714239.15701292),253280.225887639
+,,Opastaulu,,Lieto,Kuuden kunnanosan kierros,Tammireittien opastaulu,Ilmaristen matkailutila,,,,21,6715792.80227838,Point (246054.09879597 6715792.80227838),246054.098795966
+,,Opastaulu,,Lieto,Kuuden kunnanosan kierros / Littoistenjärven luontopolku,Tammireittien opastaulu,Järvelä,,,,22,6711432.49396767,Point (246468.35512683 6711432.49396767),246468.355126828
+,,Opastaulu,,Lieto,Kuuden kunnanosan kierros / Vanhalinnan kulttuuri- ja luontopolut / Hämeen Härkätie,Tammireittien opastaulu,Liedon Vanhalinna,,,,23,6714481.97587383,Point (246232.59589251 6714481.97587383),246232.595892511
+,,Opastaulu,,Lieto,Ankka-Nautela luontopolku,Tammireittien opastaulu,Ankan pysäköintialue,,,,24,6718785.16380578,Point (252817.07645874 6718785.16380578),252817.076458741
+,,Opastaulu,,Lieto,Ankka-Nautela luontopolku,Tammireittien opastaulu,Pieneläinhautausmaa,,,,25,6719540.25773654,Point (251977.3905882 6719540.25773654),251977.3905882
+,,Opastaulu,,Lieto,Kuuden kunnanosan kierros / Nautelankosken luonnonsuojelualueen polut / Ankka-Nautela luontopolku,Tammireittien opastaulu,Nautelankoski,,,,26,6722345.10811119,Point (250918.98837681 6722345.10811119),250918.988376812
+,,Opastaulu,,Lieto,Kuuden kunnanosan kierros / Hämeen Härkätie,Tammireittien opastaulu,Yliskulma,,,,27,6719860.37850119,Point (257759.29410525 6719860.37850119),257759.294105247
+,,Opastaulu,,Lieto,Kuuden kunnanosan kierros / Hämeen Härkätie,Tammireittien opastaulu,Liedon keskusta,,,,28,6716153.7435395,Point (250231.96384295 6716153.7435395),250231.963842949
+,,Nahtavyys,,Lieto,Kuuden kunnanosan kierros,Littoisten verkatehdas,Littoinen,,,,29,6710411.65300158,Point (247263.09300327 6710411.65300158),247263.093003273
+,,Nahtavyys,,Lieto,Kuuden kunnanosan kierros,Kuoviluoto,Kuoviluoto,,,,30,6710687.14514581,Point (246981.61314957 6710687.14514581),246981.613149573
+,,Nahtavyys,,Lieto,Kuuden kunnanosan kierros,Saukonojan vanha koulu,Saukonoja,,,,31,6715032.5309628,Point (254810.45665305 6715032.5309628),254810.456653047
+,,Nahtavyys,,Lieto,Kuuden kunnanosan kierros,Keppolan aitta,Saukonoja,,,,32,6715952.11006784,Point (254717.84429574 6715952.11006784),254717.844295744
+,,Silta,,Lieto,Kuuden kunnanosan kierros / Nautelankosken luonnonsuojelualueen polut / Ankka-Nautela luontopolku,Nautelankosken silta,Nautelankoski,,,,33,6722357.21409557,Point (250972.11285625 6722357.21409557),250972.112856247
+,,Silta,,Lieto,Kuuden kunnanosan kierros,Kurkelantien silta,,,,,34,6717944.67061186,Point (250201.2992815 6717944.67061186),250201.299281503
+,,Silta,,Lieto,Kuuden kunnanosan kierros,Vääntelänkosken silta,Vääntelänkoski,,,,35,6715440.19748178,Point (248145.76879336 6715440.19748178),248145.768793364
+,,Silta,,Lieto,Kuuden kunnanosan kierros,Suomensilta,Yliskulma,,,,36,6719737.17942278,Point (257969.01912777 6719737.17942278),257969.019127767
+,,Luonnonnahtavyys,Vanha puu,Lieto,Hämeen Härkätie / Kuuden kunnanosan kierros,Frantsin piiskausmänty,Yliskulma,,,,37,6719927.23079269,Point (257408.60134245 6719927.23079269),257408.601342449
+,,Nahtavyys,,Lieto,Hämeen Härkätie,Parmaharju,Parmaharju,,,,38,6718197.992348,Point (255237.81368214 6718197.992348),255237.813682138
+,,Nahtavyys,,Lieto,Hämeen Härkätie,Viinamäen hautausmaa,Liedon keskusta,,,,39,6717091.48545878,Point (250923.18614894 6717091.48545878),250923.186148936
+,,Nahtavyys,,Lieto,Hämeen Härkätie / Kuuden kunnanosan kierros,Pyhän Pietarin kirkko,Liedon keskusta,,,,40,6716666.41874312,Point (250262.4662621 6716666.41874312),250262.466262103
+,,Silta,,Lieto,Hämeen Härkätie / Kuuden kunnanosan kierros,Teilipolun riippusilta,Liedon keskusta,,,,41,6716170.63050242,Point (250006.44043524 6716170.63050242),250006.440435236
+,,Silta,,Lieto,Hämeen Härkätie / Kuuden kunnanosan kierros,Lietniemen silta,Sillilä,,,,42,6715031.84914394,Point (248283.73934047 6715031.84914394),248283.739340468
+,,Nahtavyys,,Lieto,Hämeen Härkätie / Kuuden kunnanosan kierros,Henrik Antinpojan hauta,Loukinainen,,,,43,6714778.0823957,Point (247592.13028129 6714778.0823957),247592.13028129
+,,Luonnonnahtavyys,Muinaislinna,Lieto,Vanhalinnan kulttuuri- ja luontopolut,Vanhalinnan Linnavuori,Vanhalinna,,,,44,6714510.88406985,Point (246074.43335198 6714510.88406985),246074.433351976
+,,Nahtavyys,,Lieto,Vanhalinnan kulttuuri- ja luontopolut,Viikinkivene Helka,Vanhalinna,,,,45,6714596.07149543,Point (246211.85108344 6714596.07149543),246211.851083442
+,,Kahvila,Kahvila Namia,Lieto,Kuuden kunnanosan kierros,Vilkkimäen meijeri,Vilkkimäki,,,,46,6719055.85138483,Point (249078.37354895 6719055.85138483),249078.373548954
+Kunta,Kunta / liikuntatoimi,Vesillelasku,,Lieto,Littoistenjärven melontareitti,Järvelän esteetön melontalaituri,Järvelä,Villa Järvelän palvelut,https://www.jarvela.fi/,,47,6711389.44383875,Point (246478.26718269 6711389.44383875),246478.267182695
+Kunta,,Rantautuminen,,Lieto,Littoistenjärven melontareitti,Kuoviluodon maihinnousuranta,Kuoviluoto,,,,48,6710614.31714967,Point (247128.83431847 6710614.31714967),247128.83431847
+Kunta,Kunta / tekninen toimi,Vesillelasku,,Paimio,Paimionjoen melontareitti,,Jokipuisto,,,,49,6710151.78280445,Point (262289.50185874 6710151.78280445),262289.501858736
+Kunta,Kunta / tekninen toimi,Rantautuminen,,Paimio,Paimionjoen melontareitti,,,,,,50,6710151.72668158,Point (262289.98275753 6710151.72668158),262289.982757526
+Kunta,,Rantautuminen,,Paimio,,,,,,,51,6707601.58623433,Point (261233.85975268 6707601.58623433),261233.859752685
+Valtio,Kunta / tekninen toimi,Rantautuminen,,Paimio,,,,,,,52,6706260.27166146,Point (260780.09180903 6706260.27166146),260780.091809026
+Muu,Muu,Rantautuminen,Paimion seurakunnan leirikeskus,Paimio,,,,,,,53,6702388.47091624,Point (257956.29357242 6702388.47091624),257956.293572421
+Kunta,,Vesillelasku,,Paimio,,,,,,,54,6707600.43114087,Point (261242.72187361 6707600.43114087),261242.721873612
+Kunta,Muu,Rantautuminen,,Paimio,,,,,,,55,6711449.32243474,Point (262660.77932198 6711449.32243474),262660.779321978
+Kunta,Muu,Tulipaikka,,Paimio,,,,,,,56,6711449.14463086,Point (262665.38867082 6711449.14463086),262665.388670825
+Muu,Yksityinen / yhdistys,Opastaulu,Parantolan polku on pituudeltaan hieman yli 2 km ja viitoitettu selkein opastein. Polkua ylläpitää Parantolan metsät ry.Polu on osa Preitilän reittiä.,Paimio,,Parantolan polun ja Preitilän reitin lähtöpiste,,,,,57,6710597.13340821,Point (265703.59195058 6710597.13340821),265703.591950578
+Muu,Yksityinen / yhdistys,Nahtavyys,Parantolan metsän kunniataulu,Paimio,,,,,,,58,6710569.26875145,Point (265773.45661104 6710569.26875145),265773.456611038
+Muu,Yksityinen / yhdistys,Nahtavyys,Lemmenlammella näet Alvar Aallon suunnitteleman pumppaamon ja padon. Itse lampi on nykyisin tyhjä padon vuodettua.,Sauvo,,Lemmenlampi,,,,,59,6710369.74501451,Point (265929.33403756 6710369.74501451),265929.334037556
+Muu,Yksityinen / yhdistys,Tulipaikka,,Paimio,,Parantolan metsän laavu,,,,,60,6711027.1440823,Point (266118.53641338 6711027.1440823),266118.536413384
+Muu,Yksityinen / säätiö,Kahvila,Katso lisätietoja Parantolan ja ravintolan verkkosivuilta,Paimio,,Ravintola Toivo,,,https://paimiosanatorium.com/fi/syo-nuku/ravintola/,,61,6710785.28629848,Point (265576.41162817 6710785.28629848),265576.411628169
+Kunta,Kunta / tekninen toimi,Portaat,Myllymäen portaat,Paimio,,,,,,,62,6709663.36001508,Point (266782.92893587 6709663.36001508),266782.928935869
+Muu,Yksityinen / yhdistys,Opastaulu,,Paimio,,Paimion luontopolun lähtöpaikka,,,,,63,6708589.79920536,Point (267055.14291343 6708589.79920536),267055.142913432
+Muu,Yksityinen / yhdistys,Nahtavyys,,Paimio,,Turvemuseo,,,,,64,6708601.03466769,Point (267045.97028868 6708601.03466769),267045.97028868
+Muu,Yksityinen / yhdistys,Luonnonnahtavyys,,Paimio,,Suolampi,,,,,65,6708950.84813314,Point (267327.41123153 6708950.84813314),267327.411231525
+Kunta,Kunta / tekninen toimi,Silta,,Paimio,,Järvessuon silta,,,,,66,6709111.72908123,Point (267601.06357273 6709111.72908123),267601.063572731
+Muu,Kunta / tekninen toimi,Luontotorni,,Paimio,,Kuhankuonon näkötorni,,,,,67,6709304.58561272,Point (268392.34063272 6709304.58561272),268392.340632724
+Muu,Yksityinen / yhdistys,Tulipaikka,,Paimio,,Paimion luontopolun kota,,,,,68,6709270.08499853,Point (268389.88237772 6709270.08499853),268389.882377716
+Muu,Yksityinen / yhdistys,Nahtavyys,,Paimio,,Muinaisranta,,,,,69,6709242.03183281,Point (268474.67277182 6709242.03183281),268474.672771824
+Muu,Yksityinen / yhdistys,Nahtavyys,,Paimio,,Korpelan korsu,,,,,70,6708524.94910441,Point (267614.02233801 6708524.94910441),267614.022338008
+Muu,Yksityinen / yhdistys,Luonnonnahtavyys,,Paimio,,Yhteenkasvaneet männyt,,,,,71,6708751.60226634,Point (268039.91764553 6708751.60226634),268039.917645525
+Muu,Yksityinen / yhdistys,Pysakointialue,,Paimio,,Paimion luontopolun pysäköintialue,,,,,72,6708589.32424127,Point (267061.684764 6708589.32424127),267061.684763996
+Kunta,Kunta / tekninen toimi,Nakoala,,Paimio,,Näköala Paimion Parantolalle,,,,,73,6709646.92833471,Point (266814.94154778 6709646.92833471),266814.941547776
+Kunta,Kunta / tekninen toimi,Tulipaikka,Grilli,Paimio,,Hiekkahelmi,,,,,74,6705541.32760014,Point (263007.85705912 6705541.32760014),263007.857059118
+Kunta,Kunta / tekninen toimi,Kuivakaymala,Kemiallinen käymälä / esteetön käymälä,Paimio,,Hiekkahelmi,,,,,75,6705580.82708583,Point (263005.40302255 6705580.82708583),263005.403022554
+Kunta,Kunta / tekninen toimi,Pysakointialue,Hiekkahelmen pysäköintialue,Paimio,,,Hiekkahelmi,,,,76,6705651.26073984,Point (263007.78383458 6705651.26073984),263007.783834585
+Kunta,Kunta / tekninen toimi,Pysakointi_liikeste,Hiekkahelmentie 41,Paimio,,Hiekkahelmi,,,,,77,6705583.55246246,Point (262976.50976607 6705583.55246246),262976.50976607
+Muu,Muu,Nahtavyys,,Paimio,,Askalan vesivoimalaitos,,,,,78,6715364.14315566,Point (263512.93826607 6715364.14315566),263512.93826607
+Muu,Yksityinen / yhdistys,Nahtavyys,,Paimio,,Askalan ketoalue ja ketotalo,,,,,79,6715429.46711118,Point (263413.14910684 6715429.46711118),263413.149106842
+Muu,Muu,Nahtavyys,,Paimio,,Askalan vesivoimalaitoksen pato,,,,,80,6715666.99257219,Point (263497.20251081 6715666.99257219),263497.20251081
+Muu,Muu,Nakoala,,Paimio,,Rukkijoen kylämiljöö,,,,,81,6715122.43627933,Point (264050.28772176 6715122.43627933),264050.287721765
+Kunta,Kunta / tekninen toimi,Nakoala,,Paimio,,Näkymä Paimionjoelle Isosillalta,,,,,82,6710646.87957185,Point (262347.12760997 6710646.87957185),262347.127609974
+Kunta,Kunta / tekninen toimi,Silta,,Paimio,,Isosilta,,,,,83,6710644.74130079,Point (262381.33857484 6710644.74130079),262381.338574839
+Muu,Muu,Nakoala,,Paimio,,Postinkujan idyllinen asuinalue,,,,,84,6710423.70700485,Point (262512.48230509 6710423.70700485),262512.482305094
+Muu,Muu,Nakoala,Nakolinna on korkealla mäen päällä sijainnut muinaislinna. Mäeltä on hieno näkymä Paimionjokilaaksoon. Mäelle ei ole merkittyä reittiä.,Paimio,,Nakolinna,,,,,85,6711833.99357832,Point (261437.59283008 6711833.99357832),261437.592830081
+Kunta,Kunta / tekninen toimi,Opastaulu,"Jokipuisto, entinen saha, Tammireitit",Paimio,,Jokipuisto,,,,,86,6710184.47656161,Point (262362.97438072 6710184.47656161),262362.974380722
+Kunta,Kunta / tekninen toimi,Nahtavyys,Kohiseva on koski Vähäjoessa. Vanhan myllypadon kivimuuri on nähtävissä.,Paimio,,Kohiseva,,,,,87,6710151.95707652,Point (263563.43025538 6710151.95707652),263563.430255381
+Kunta,Kunta / tekninen toimi,Opastaulu,,Paimio,,Vähäjokipolku,,,,,88,6710134.32097917,Point (263435.94230863 6710134.32097917),263435.942308635
+Kunta,Kunta / tekninen toimi,Pysakointialue,,Paimio,,Vähäjokipolku,,,,,89,6710131.7816208,Point (263437.7471239 6710131.7816208),263437.747123899
+Kunta,Kunta / tekninen toimi,Pysakointialue,,Paimio,,Jokipuisto,,,,,90,6710162.38445566,Point (262357.672412 6710162.38445566),262357.672411997
+Muu,Muu,Nakoala,,Paimio,,Näköala Paimionjoelle Juntolassa,,,,,91,6719632.31910728,Point (264206.70164754 6719632.31910728),264206.701647541
+Kunta,Kunta / muu,Opastaulu,,Paimio,,Paimion kotiseutumuseo,,,,,92,6712470.4824152,Point (263096.72849276 6712470.4824152),263096.72849276
+Kunta,Kunta / tekninen toimi,Opastaulu,,Paimio,,Muurahaispolku,,,,,93,6712488.83398629,Point (263090.08636407 6712488.83398629),263090.086364071
+Kunta,Kunta / muu,Nahtavyys,,Paimio,,Paimion kotiseutumuseo ja kesäteatteri,,,,,94,6712541.60552123,Point (263040.7096171 6712541.60552123),263040.709617095
+Kunta,Kunta / tekninen toimi,Uimaranta,,Paimio,,Ankkalammen maauimala,,,,,95,6712207.85665009,Point (263329.81524975 6712207.85665009),263329.815249749
+Kunta,Kunta / muu,Pysakointialue,,Paimio,,Kotiseutumuseo ja Muurahaispolku,,,,,96,6712505.83411144,Point (263065.72811696 6712505.83411144),263065.728116963
+Kunta,Kunta / tekninen toimi,Pysakointialue,,Paimio,,Ankkalammen maauimala,,,,,97,6712185.24333292,Point (263308.61087276 6712185.24333292),263308.610872756
+Kunta,Kunta / tekninen toimi,Kuivakaymala,WC avoinna kesäpäivisin,Paimio,,Ankkalammen maauimala,,,,,98,6712190.11976974,Point (263367.5695639 6712190.11976974),263367.569563902
+Kunta,Kunta / tekninen toimi,Tulipaikka,Jokipuiston huvimaja ja tulentekopaikka,Paimio,,Jokipuisto,,,,,99,6710126.44988021,Point (262282.32483585 6710126.44988021),262282.32483585
+Muu,Muu,Kahvila,Katso aukioloajat leipomo-kahvilan omilta verkkosivuilta,Paimio,,Cafe Asta,,,https://www.cafeasta.fi/,,100,6710119.44340858,Point (262897.28287398 6710119.44340858),262897.282873978
+Muu,Muu,Kahvila,Katso aukioloajat kioskin omilta verkkosivuilta,Paimio,,R-kioski,,,https://www.r-kioski.fi/kioskit/paimio-asematie-2/,,101,6710114.56249524,Point (262884.75975171 6710114.56249524),262884.759751715
+Muu,Muu,Kahvila,Katso aukioloajat kahvilan omilta verkkosivuilta,Paimio,,,,,https://www.cafeatsalea.fi/,,102,6715078.06867481,Point (264086.14062923 6715078.06867481),264086.140629235
+Muu,Yksityinen / yhdistys,Opastaulu,Oinilan Jokipolku on noin 2 km pitkä opastettu reitti Paimionjoen rantamilla.,Paimio,,Oinilan Jokipolun lähtöpaikka,,,,,103,6711438.80422133,Point (262864.54624808 6711438.80422133),262864.546248077
+Kunta,Kunta / tekninen toimi,Pysakointialue,,Paimio,,Oinilan Jokipolku,,,,,104,6711437.63377629,Point (262870.90160174 6711437.63377629),262870.90160174
+Kunta,Kunta / tekninen toimi,Nahtavyys,Paimion Jokipuistossa on monenlaista nähtävää,Paimio,,Paimion Jokipuisto,,,,,105,6710171.89882556,Point (262358.44721861 6710171.89882556),262358.447218613
+Kunta,Kunta / tekninen toimi,Kuivakaymala,Jokipuiston WC avoinna toukokuun puolesta välistä syyskuun puoleen väliin aamusta iltaan.,Paimio,,Jokipuistp,,,,,106,6710209.3620958,Point (262433.1432402 6710209.3620958),262433.143240197
+Muu,Yksityinen / yhdistys,Nahtavyys,"Paimion parantolaa ympäröivät upeat metsät on turvattu paikallisen, Parantolan metsät ry toimesta vuonna 2019.",Paimio,,Parantolan metsä,,,,,107,6710600.42824611,Point (265703.82392554 6710600.42824611),265703.823925543
+Kunta,Kunta / tekninen toimi,Opastaulu,Hiekkahelmen alueen reittien opastaulut,Paimio,,,Hiekkahelmi,,,,108,6705635.77589386,Point (263033.25664569 6705635.77589386),263033.256645692
+Kunta,Kunta / tekninen toimi,Uimaranta,Hiekkahelmen uimaranta,Paimio,,Hiekkahelmi,,,,,109,6705551.0612411,Point (263031.86641632 6705551.0612411),263031.866416322
+Kunta,Kunta / tekninen toimi,Nakoala,,Paimio,,Helmi MTB,,,,,110,6705291.07097326,Point (263747.99211409 6705291.07097326),263747.992114093
+Muu,Kunta / tekninen toimi,Nakoala,,Paimio,,,,,,,111,6703556.46868188,Point (262726.55284347 6703556.46868188),262726.552843465
+Kunta,Kunta / tekninen toimi,Nakoala,,Paimio,,,,,,,112,6705037.21812876,Point (263699.60406232 6705037.21812876),263699.604062322
+Muu,Muu,Kahvila,Katso aukioloajat palveluntarjoajan verkkosivuilta,Paimio,,Neste Paimio,,,https://www.neste.fi/asema/neste-k-paimio,,113,6706504.65701234,Point (264679.33253681 6706504.65701234),264679.332536805
+Muu,Muu,Kahvila,Katso aukioloajat Iivarin verkkosivuilta,Paimio,,Iivari cafe & bistro,,,https://www.iivaricafe.fi/,,114,6709396.60682297,Point (263174.32036418 6709396.60682297),263174.32036418
+Muu,Muu,Kahvila,Katso lisätietoja Heimon grillin verkkosivuilta,Paimio,,Heimon grilli,,,https://www.facebook.com/heimongrilli/?locale=fi_FI,,115,6710140.28063731,Point (262777.77162609 6710140.28063731),262777.77162609
+Muu,Muu,Kahvila,,Paimio,,Tadim kebab & pizzeria,,,,,116,6709951.28256223,Point (262994.73595162 6709951.28256223),262994.735951617
+Muu,Muu,Kahvila,,Paimio,,Kulman kuppila,,,,,117,6710220.33738026,Point (262962.51456182 6710220.33738026),262962.514561817
+Kunta,Kunta / tekninen toimi,Opastaulu,,Paimio,,Urheilupuisto,,,,,118,6708904.85757081,Point (263225.20624629 6708904.85757081),263225.206246285
+Muu,Kunta / tekninen toimi,Opastaulu,,Paimio,,,,,,,119,6706512.22478622,Point (264676.03097091 6706512.22478622),264676.030970914
+Muu,Kunta / tekninen toimi,Opastaulu,,Paimio,,Hiihtoputki Finnfoam Paippi,,,,,120,6706424.70857363,Point (264314.82059071 6706424.70857363),264314.820590709
+Muu,Yksityinen / yhdistys,Opastaulu,,Paimio,,Rekottilan linnavuori,,,,,121,6706666.23353592,Point (265996.63501858 6706666.23353592),265996.635018578
+Muu,Muu,Pysakointialue,,Paimio,,Rekottilan linnavuori,,,,,122,6706671.69931481,Point (265996.96746393 6706671.69931481),265996.967463925
+Muu,Yksityinen / yhdistys,Nahtavyys,Rekottilan linnavuorella on nähtävissä muinaislinnan jäänteitä ja hautaröykkiöitä,Paimio,,Rekottilan linnavuori,,,,,123,6706647.52146969,Point (265929.43103762 6706647.52146969),265929.43103762
+Muu,Yksityinen / yhdistys,Nahtavyys,Sukselan kyläkoulu on nykyisin Sukselan kyläyhdistyksen omistama,Paimio,,Sukselan vanha kyläkoulu ja Sukselan nurmikenttä,,,,,124,6715604.40939781,Point (262609.50369756 6715604.40939781),262609.503697562
+Säätiö,Yksityinen / säätiö,Nahtavyys,Lisätietoja parantolasta saat parantolan vekrkosivuilta,Paimio,,Paimion parantola / Paimio sanatorium,,,https://paimiosanatorium.com/fi/etusivu/,,125,6710800.39350339,Point (265569.8668151 6710800.39350339),265569.866815101
+Säätiö,Yksityinen / säätiö,Pysakointialue,,Paimio,,"Parantolan metsän, polun ja Preitilän reitin pysäköintialue",,,,,126,6710604.3661317,Point (265696.42228898 6710604.3661317),265696.422288982
+Kunta,Kunta / tekninen toimi,Opastaulu,Paimion frisbeegolfpuistossa on täysimittainen 18 -väyläinen rata sekä 6 väyläinen multigolfrata,Paimio,,Paimio Disc Golf Park,,,,,127,6709828.12431544,Point (264803.24857059 6709828.12431544),264803.248570586
+Kunta,Yksityinen / yhdistys,Nahtavyys,,Paimio,,Spurilan muinaisjäännösalue,,,,,128,6710833.24520898,Point (263578.31412746 6710833.24520898),263578.314127463
+Muu,Yksityinen / yhdistys,Nahtavyys,,Paimio,,Varasvuoren hyppyrimäet,,,,,129,6710497.70500204,Point (264672.35243948 6710497.70500204),264672.352439482
+Kunta,Kunta / muu,Infopiste,Kaupungin matkailuneuvonta muulloin kuin kesäaikaan,Paimio,,Kaupungintalo ja kirjasto,,,www.paimio.fi / https://visitpaimio.fi/,,130,6709912.83506323,Point (263146.86350371 6709912.83506323),263146.863503707
+Kunta,Kunta / muu,Infopiste,,Paimio,,Paimion matkailuneuvonta kesäaikaan,,,www.paimio.fi / https://visitpaimio.fi/,,131,6709554.71762843,Point (263200.6291524 6709554.71762843),263200.629152402
+Säätiö,Yksityinen / säätiö,Nahtavyys,Katso lisätietoja kaupungin verkkosivuilta,Paimio,,Käsityömuseo Miila,,,https://www.paimio.fi/kulttuuri-ja-vapaa-aika/museot/kasityomuseo-miila/,,132,6709518.57733855,Point (263152.80126407 6709518.57733855),263152.801264069
+Kunta,Kunta / muu,Nahtavyys,Sähkötekniikan erikoismuseo Paimion Sähkömuseo sijaitsee Paimion keskustassa.,Paimio,,Paimion sähkömuseo,,,https://www.paimio.fi/kulttuuri-ja-vapaa-aika/museot/paimion-sahkomuseo/,,133,6709572.10765676,Point (263200.83822607 6709572.10765676),263200.838226072
+Muu,Muu,Nahtavyys,,Paimio,,"Paimion kirkko, eli Pyhän Mikaelin kirkko",,,https://www.paimionseurakunta.fi/kirkot-ja-tilat/paimion-kirkko,,134,6709818.6977241,Point (263150.58032593 6709818.6977241),263150.580325933
+Muu,Muu,Nahtavyys,,Paimio,,Räpälän vanhan kirkon paikka,,,,,135,6710449.01320297,Point (262248.96658146 6710449.01320297),262248.966581459
+Muu,Muu,Nahtavyys,,Paimio,,Pyhän Jaakobin kirkko,,,,,136,6706396.4684604,Point (260019.56589944 6706396.4684604),260019.565899436
+Muu,Yksityinen / yhdistys,Nakoala,,Paimio,,Näkymä Paimionjokilaaksoon,,,,,137,6711947.61805062,Point (262819.48776515 6711947.61805062),262819.487765154
+Muu,Yksityinen / yhdistys,Nakoala,Näkymä Kevolan peltoaukealle,Paimio,,Rekottilan linnavuori,,,,,138,6706632.95857528,Point (265928.28357034 6706632.95857528),265928.283570338
+Muu,Yksityinen / yhdistys,Pysakointialue,,Paimio,,Askalan pysäköintialue,,,,,139,6715358.88376285,Point (263526.54609018 6715358.88376285),263526.546090176
+Kunta,Kunta / muu,Pysakointialue,HUOM! P-paikat on varattu vain koulun henkilökunnan käyttöön arkisin klo 7-15.,Kaarina,,,Auranlaakso koulu,,,,140,6712608.41942186,Point (245421.33997928 6712608.41942186),245421.339979275
+Kunta,,Nakoala,,Kaarina,,Muikunvuori,,,,,141,6712413.47395709,Point (244960.42002393 6712413.47395709),244960.420023933
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Hovirinnan uimarannan pysäköintialue,,,,,142,6704469.21136136,Point (245390.30906429 6704469.21136136),245390.309064287
+Kunta,Kunta / muu,Aktiviteetti,,Kaarina,,Liikenne- ja leikkipuisto,Hovirinnan rantapuisto,,,,143,6704750.97661256,Point (245313.18251202 6704750.97661256),245313.182512017
+Kunta,Kunta / muu,Uimaranta,,Kaarina,,Hovirinnan uimaranta,,,,,144,6704413.19609163,Point (245444.77617329 6704413.19609163),245444.776173285
+Kunta,Kunta / muu,Rantautuminen,,Kaarina,,Oleskelulaituri,Rauhalinnan luontopolku,,,,145,6704909.48378697,Point (246589.75874858 6704909.48378697),246589.758748583
+Muu,Muu,Nahtavyys,,Kaarina,,Mökkigalleria,,,https://mokkigalleria.fi/,,146,6705533.50148605,Point (246545.96881988 6705533.50148605),246545.968819876
+Kunta,Kunta / muu,Uimaranta,,Kaarina,,Voivalan uimaranta,,,,,147,6705215.53742233,Point (247491.97946549 6705215.53742233),247491.979465492
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Voivalan uimarannan pysäköintialue,,,,,148,6705243.49420093,Point (247632.00666049 6705243.49420093),247632.006660487
+Valtio,Muu,Luonnonnahtavyys,Karpanmäen lehto,Kaarina,,Karpanmäen luonnonsuojelualue,,,,,149,6705479.79438322,Point (248048.10694482 6705479.79438322),248048.106944822
+Muu,Muu,Nahtavyys,Ammattiopisto Livia,Kaarina,,Tuorlan kartano,"Ammattiopisto Livia, Tuorla",,,,150,6706422.13482976,Point (248887.9850273 6706422.13482976),248887.985027297
+Muu,,Pysakointialue,,Kaarina,,Tuorlan pysäköintialue,,,,,151,6706433.71446207,Point (248942.96220052 6706433.71446207),248942.962200518
+Muu,,Opastaulu,Tuorlan alueen opastaulu,Kaarina,,Ammattiopisto Livia,,,,,152,6706458.31019259,Point (248952.65632366 6706458.31019259),248952.656323664
+Muu,Yksityinen / yhdistys,Nahtavyys,,Kaarina,,Avaruuspuisto Väisälä,,,https://www.avaruuspuisto.fi/,,153,6706369.17049483,Point (249268.73315396 6706369.17049483),249268.73315396
+Muu,,Luonnonnahtavyys,Tuorlan lehtometsä,Kaarina,,Tuorlan luonnonsuojelualueet,,,,,154,6706329.83419502,Point (249336.79931259 6706329.83419502),249336.799312594
+Kunta,Kunta / muu,Opastaulu,Luonto- ja historiaopastaulu,Kaarina,,Kuninkaantie/ Suuri rantatie,,,,,155,6706510.92572011,Point (249467.9110678 6706510.92572011),249467.9110678
+Kunta,Kunta / muu,Uimaranta,,Kaarina,,Raadelman uimaranta,,,,,156,6705983.53773343,Point (250147.75066293 6705983.53773343),250147.750662929
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Raadelman uimarannan pysäköintialue,,,,,157,6706035.55593366,Point (250362.35388723 6706035.55593366),250362.353887228
+Kunta,Kunta / muu,Opastaulu,Opastaulu rautakautinen Hadvala,Kaarina,,,,,,,158,6707142.35010724,Point (252631.78861386 6707142.35010724),252631.788613856
+Muu,Muu,Nahtavyys,Piikkiön kirkko,Kaarina,,Piikkiön kirkko,,,,,159,6707234.64259667,Point (253398.56479215 6707234.64259667),253398.564792155
+Kunta,Kunta / muu,Opastaulu,Luontopolun infotaulu,Kaarina,,Kaarinan perintömetsän luontopolku,,,,,160,6707549.3467647,Point (244546.62690603 6707549.3467647),244546.626906029
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Kaarinan perintömetsän luontopolku,,,,,161,6706817.36494586,Point (244778.9861854 6706817.36494586),244778.9861854
+Kunta,Kunta / muu,Luontotorni,,Kaarina,,Kuusistonlahden lintutorni pohjoinen,,,,,162,6704638.80476924,Point (250318.54080021 6704638.80476924),250318.540800213
+Kunta,Kunta / muu,Luontotorni,Lintutorni. HUOM! valmistuu syksyllä 2024,Kaarina,,Piikkiönlahden lintutorni,,,,,163,6706522.80996062,Point (252213.3722449 6706522.80996062),252213.372244901
+Kunta,Kunta / muu,Vesillelasku,,Kaarina,Littoistenjärven melontareitti,Ristikallion uimaranta,,,,,164,6710072.13815024,Point (246875.95955143 6710072.13815024),246875.959551431
+Kunta,Kunta / muu,Rantautuminen,,Kaarina,Littoistenjärven melontareitti,Littoisten uimaranta,,,,,165,6711351.4775925,Point (245813.69460812 6711351.4775925),245813.694608125
+Kunta,Kunta / muu,Vesillelasku,,Kaarina,,Hovirinnan uimaranta,,,,,166,6704418.33500158,Point (245490.76158117 6704418.33500158),245490.761581168
+Kunta,Kunta / muu,Rantautuminen,,Kaarina,,Kuuslahden uimapaikka,,,,,167,6703556.18040673,Point (243093.66732178 6703556.18040673),243093.66732178
+Muu,,Rantautuminen,,Kaarina,,Villa Wolax,,,,,168,6701629.66531622,Point (242277.22691857 6701629.66531622),242277.226918566
+Muu,,Rantautuminen,,Kaarina,,Kavalton tila,,,,,169,6705722.96193987,Point (252250.61439175 6705722.96193987),252250.614391751
+Valtio,Muu,Rantautuminen,,Kaarina,,Kuusiston linnanrauniot,,,,,170,6705484.15794369,Point (250804.38675221 6705484.15794369),250804.386752205
+Kunta,Kunta / muu,Rantautuminen,,Kaarina,,Raadelman uimaranta,,,,,171,6705960.07192293,Point (250139.88618212 6705960.07192293),250139.886182118
+Kunta,Kunta / muu,Rantautuminen,,Kaarina,,Voivalan uimaranta,,,,,172,6705207.5300367,Point (247496.8932304 6705207.5300367),247496.8932304
+Valtio,,Vesillelasku,,Kaarina,,Harvaluodon silta,,,,,173,6702478.56945759,Point (251995.36228165 6702478.56945759),251995.362281649
+Muu,,Rantautuminen,,Kaarina,,Toivonlinna,,,,,174,6702368.0353506,Point (253802.53318882 6702368.0353506),253802.533188824
+Kunta,Kunta / muu,Rantautuminen,,Kaarina,,Harvaluodon virkistysalue,,,,,175,6701059.35596947,Point (252823.58720228 6701059.35596947),252823.587202283
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Littoistenjärven uimarannan pysäköintialue,,,,,176,6711390.24629442,Point (245726.14116143 6711390.24629442),245726.141161434
+Kunta,,Pysakointialue,,Kaarina,,Ristikallion uimaranta,,,,,177,6710022.98504603,Point (246886.22002099 6710022.98504603),246886.220020991
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Harvaluodon virkistysalue,,,,,178,6701103.03084543,Point (252736.74513975 6701103.03084543),252736.745139746
+Muu,,Rantautuminen,,,,Halistenkoski,,,,,179,6712409.39795051,Point (242053.14729363 6712409.39795051),242053.147293634
+Kunta,Kunta / muu,Rantautuminen,,Kaarina,,Oleskelulaituri,Jukolanranta,,,,180,6704473.46219963,Point (246323.1268257 6704473.46219963),246323.126825704
+Kunta,,Pysakointialue,,,,"Aurajoen melontakeskus, Myllärintalo",,,,,181,6712421.12724588,Point (241977.02469801 6712421.12724588),241977.024698013
+Valtio,,Pysakointialue,,Paimio,,Maantie 110 levähdysalue,,,,,182,6706282.37704509,Point (260708.81885858 6706282.37704509),260708.818858581
+Muu,,Pysakointialue,,Sauvo,,Sarapiston pysäköintialue,,,,,183,6687191.00148592,Point (264457.26843749 6687191.00148592),264457.268437493
+Kunta,,Pysakointialue,,Sauvo,,Karunan kalliorannan pysäköintialue,,,,,184,6690359.94830921,Point (255857.27830588 6690359.94830921),255857.278305882
+Kunta,,Rantautuminen,,Sauvo,,Marjaniemen leirikeskus,,,,,185,6691677.42210344,Point (271675.90793834 6691677.42210344),271675.907938341
+Muu,,Rantautuminen,,Sauvo,,Sarapisto,,,,,186,6686984.47893139,Point (264568.66425475 6686984.47893139),264568.664254753
+Kunta,,Rantautuminen,,Sauvo,,Karunan Kallioranta,,,,,187,6690327.28164703,Point (255690.43975252 6690327.28164703),255690.439752525
+Muu,,Nahtavyys,,Lieto,Kuuden kunnanosan kierros / Nautelankosken luonnonsuojelualueen polut / Ankka-Nautela luontopolku,Nautelankoski,Nautelankoski,,,,188,6722371.31654109,Point (250963.85587462 6722371.31654109),250963.855874624
+Kunta,,Nahtavyys,,,,"Halistenkoski, Aurajoen opastuskeskus",,,,,189,6712396.58048775,Point (242064.94531775 6712396.58048775),242064.945317751
+Kunta,,Nakoala,,Sauvo,,Kirveskallio,,,,,190,6698423.26863886,Point (262477.80542509 6698423.26863886),262477.805425086
+Muu,,Nahtavyys,,Sauvo,,Sauvon Kädet ry kesänäyttely,,,,,191,6690785.7830703,Point (255785.88064602 6690785.7830703),255785.880646019
+Kunta,,Nahtavyys,Rautakautinen asuinpaikka ja kuppikallio. Eväspöytä ja penkit,Sauvo,,Timperin kuppikallio,,,,,192,6697443.41289846,Point (261892.83154807 6697443.41289846),261892.831548073
+Muu,,Nahtavyys,Ei opastaulua,Sauvo,,Rautakautinen asuinpaikka,,,,,193,6697153.86552717,Point (263213.18715826 6697153.86552717),263213.187158263
+Muu,,Nahtavyys,,Sauvo,,Sauvon kirkko,,,,,194,6697309.37369247,Point (262697.31485026 6697309.37369247),262697.314850256
+Kunta,,Nahtavyys,,Sauvo,,Sauvon tori,,,,,195,6697417.7653606,Point (262469.47113969 6697417.7653606),262469.471139689
+Kunta,,Nahtavyys,,Sauvo,,Sauvon kirjasto,,,,,196,6697523.94495388,Point (262529.19716091 6697523.94495388),262529.19716091
+Muu,,Nahtavyys,,Sauvo,,1930 -luvun funkkistalo,,,,,197,6697448.73440865,Point (262493.80396315 6697448.73440865),262493.803963146
+Kunta,Kunta / muu,Nahtavyys,Muinaisjäännösalue,Kaarina,,Huttalan linnavuori,,,,,198,6706785.76519961,Point (255184.38158637 6706785.76519961),255184.381586365
+Kunta,Kunta / muu,Nahtavyys,Muinaisjäännösalue,Kaarina,,Pronssikautinen hautaröykkiö,,,,,199,6706736.27201732,Point (255903.07836001 6706736.27201732),255903.078360012
+Muu,Muu,Nahtavyys,muinaisjäännösalue,Kaarina,,Pohtionvuoren pronssikautinen hautaröykkiö,,,,,200,6707302.30672169,Point (255790.15025396 6707302.30672169),255790.150253961
+Muu,Muu,Luonnonnahtavyys,,Kaarina,,Muinaisranta,,,,,201,6707169.86017756,Point (255908.6550566 6707169.86017756),255908.6550566
+Valtio,Muu,Nahtavyys,"Ylläpitäjä Metsähallitus, https://www.luontoon.fi/kuusisto",Kaarina,,Kuusiston piispanlinnan rauniot,,,https://tammireitit.fi/kuusistonlinnanrauniot,,202,6705394.47687018,Point (250835.66150335 6705394.47687018),250835.661503351
+Muu,,Nakoala,,Sauvo,,Hiirmetsän näköalapaikka,,,,,203,6696505.89340732,Point (262514.87309906 6696505.89340732),262514.873099055
+Muu,,Nakoala,,Sauvo,,Haarakallion näköalapaikka,,,,,204,6696493.49032214,Point (262477.89353025 6696493.49032214),262477.893530252
+Muu,,Nahtavyys,,Sauvo,,Rantakallion muinaisranta,,,,,205,6688020.87905788,Point (256584.14990714 6688020.87905788),256584.149907142
+Muu,,Nakoala,,Sauvo,,Näköala Maalunlahdelle,,,,,206,6688068.73701509,Point (256327.52574291 6688068.73701509),256327.525742906
+Muu,,Nahtavyys,,Sauvo,,Haaviston myllypato,,,,,207,6697557.07616435,Point (263863.81136989 6697557.07616435),263863.811369885
+Muu,,Nahtavyys,,Sauvo,,Rautakautinen hautaröykkiö,,,,,208,6697251.85110121,Point (263484.11727048 6697251.85110121),263484.11727048
+Kunta,,Nakoala,,Paimio,,Näköala Vähäjokilaaksoon,,,,,209,6710547.70791155,Point (263233.06860884 6710547.70791155),263233.068608843
+Muu,,Nahtavyys,,Kaarina,,Vaarniemen rälssitila,,,,,210,6705509.52194786,Point (240365.55540977 6705509.52194786),240365.555409774
+,,Nahtavyys,,Kaarina,,Pronssikautinen hautaröykkiö,,,,,211,6705285.25507352,Point (240990.11039559 6705285.25507352),240990.110395595
+Muu,,Nahtavyys,,Kaarina,,Ala-Lemun kartano,,,,,212,6703859.02586605,Point (241413.99600821 6703859.02586605),241413.996008214
+Kunta,Kunta / muu,Nahtavyys,,Kaarina,,Lemun taistelun muistomerkki,,,,,213,6704250.16039927,Point (242023.48538374 6704250.16039927),242023.48538374
+Muu,,Nahtavyys,Huom! yksityisomistuksessa,Kaarina,,Yli-Lemun kartano,,,,,214,6704367.59361252,Point (242132.71310227 6704367.59361252),242132.713102272
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,Rauvolantie,,,,,215,6705682.61257101,Point (240879.30357022 6705682.61257101),240879.303570221
+Kunta,,Luontotorni,,Kaarina,,Vaarniemen näkötorni,,,,,216,6705169.89624097,Point (240510.70505309 6705169.89624097),240510.705053089
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,Kasarminmäki,,,,,217,6704401.79487821,Point (241771.88604103 6704401.79487821),241771.88604103
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,Nunnan luontopolku,,,,,218,6709959.11668055,Point (249001.26076663 6709959.11668055),249001.26076663
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,Pontelan yhdysreitti,,,,,219,6706740.69595704,Point (253720.48666894 6706740.69595704),253720.48666894
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,,,,,,220,6703955.77960199,Point (246360.67157311 6703955.77960199),246360.67157311
+Kunta,,Opastaulu,,Kaarina,,Vähäsillan paja,,,,,221,6710495.29449881,Point (262653.16206154 6710495.29449881),262653.162061537
+Kunta,,Opastaulu,,Kaarina,,Tiilitehdas,,,,,222,6710631.22389233,Point (263090.38947741 6710631.22389233),263090.38947741
+Kunta,,Opastaulu,,Kaarina,,Kohiseva ja Vähäjoen luontoa,,,,,223,6710132.10204837,Point (263558.73263312 6710132.10204837),263558.732633119
+Muu,,Opastaulu,,Paimio,,Oinilan jokipolku,,,,,224,6711949.1703603,Point (262822.78090892 6711949.1703603),262822.780908916
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,"Kuusiston koulupolku, Empon koulu",,,,,225,6703782.44181615,Point (245900.99281395 6703782.44181615),245900.992813947
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,"Kuusiston koulupolku, Kuusiston koulu",,,,,226,6703161.07706398,Point (246664.0914306 6703161.07706398),246664.091430602
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,Tuorla,,,,,227,6706452.92046019,Point (248954.45381478 6706452.92046019),248954.453814778
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,Hovirinnan rantapuisto,,,,,228,6704555.64569836,Point (245385.02016694 6704555.64569836),245385.020166944
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,Kuusiston linnanrauniot ja kappelinmäen luontopolku,,,,,229,6704963.55175571,Point (250095.0544225 6704963.55175571),250095.054422503
+Kunta,,Opastaulu,,Sauvo,,Peimari-Areena,,,,,230,6698214.1452887,Point (262372.81276992 6698214.1452887),262372.812769919
+Valtio,Muu,Opastaulu,,Kaarina,,Kuusiston linnanrauniot,,,,,231,6705325.52578476,Point (250809.30993245 6705325.52578476),250809.309932454
+Valtio,,Opastaulu,,Sauvo,,Sauvon keskusta,,,,,232,6697362.49942276,Point (261985.58748209 6697362.49942276),261985.587482095
+Muu,,Opastaulu,,Sauvo,,Rantola,,,,,233,6690793.61990087,Point (255722.81367528 6690793.61990087),255722.813675277
+Kunta,,Opastaulu,,Sauvo,,,Sauvon tori,,,,234,6697409.05006145,Point (262474.67146527 6697409.05006145),262474.67146527
+Kunta,,Opastaulu,,Sauvo,,Marjaniemi,,,,,235,6691766.74991932,Point (271582.07218042 6691766.74991932),271582.072180415
+Muu,,Opastaulu,,Sauvo,,Sarapisto,,,,,236,6687052.43978234,Point (264568.84565281 6687052.43978234),264568.845652808
+Kunta,,Opastaulu,,Sauvo,,Karunan Kallioranta,,,,,237,6690347.9705069,Point (255834.41051894 6690347.9705069),255834.410518941
+Muu,,Opastaulu,,Sauvo,,Hiirmetsän tonttupolku,,,,,238,6696504.54436938,Point (262625.16126418 6696504.54436938),262625.161264182
+Muu,,Opastaulu,,Sauvo,,Maalun pirunpellonpolku,,,,,239,6688161.60187343,Point (256980.94670403 6688161.60187343),256980.946704028
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,Littoistenjärven uimaranta,,,,,240,6711453.03517543,Point (245908.48810925 6711453.03517543),245908.48810925
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,Piikkiön kehityksen pysäköintipaikka,,,,,241,6707051.27932684,Point (254614.66665278 6707051.27932684),254614.666652782
+Kunta,Kunta / muu,Opastaulu,Tammireittien infotaulu,Kaarina,,Piikkiön linnavuoren reitistö,,,,,242,6706694.39109684,Point (255621.65168118 6706694.39109684),255621.651681185
+Muu,Muu,Kahvila,"Ravintola, puoti",Kaarina,,Tuorlan majatalo,,,https://tuorlanmajatalo.fi/,,243,6706446.16144203,Point (248986.69921819 6706446.16144203),248986.699218186
+Kunta,,Nahtavyys,"Museo, puot",Sauvo,,Sauvon kotiseutumuseo,,,,,244,6697840.25447332,Point (261944.76390231 6697840.25447332),261944.763902309
+Muu,,Kahvila,,Sauvo,,Kesäkahvila,,,,,245,6697831.52320386,Point (261944.23325711 6697831.52320386),261944.233257114
+Muu,,Nahtavyys,,Sauvo,,Karunan kirkko,,,,,246,6689700.5928378,Point (253644.89585323 6689700.5928378),253644.895853234
+Muu,,Tilamyynti,,Sauvo,,Hännilän tila,,"suoramyynti, majoituspalvelu, hevostila",http://www.hannilantila.fi/,,247,6692053.97519713,Point (254599.39114392 6692053.97519713),254599.391143923
+Muu,,Kahvila,"Kauppa, ravintola, majoitus",Sauvo,,Rantolan puoti,,"kauppa, ravintola, majoitus",,,248,6690806.95800333,Point (255697.97572537 6690806.95800333),255697.975725368
+Kunta,,Uimaranta,,Sauvo,,Rantolan uimaranta,,,,,249,6690796.47019176,Point (255874.22638979 6690796.47019176),255874.22638979
+Muu,,Majoitus,"Ravintola, majoitus, ohjelmat",Kaarina,,Villa Volax,,,https://www.villawolax.fi/,,250,6701755.66968188,Point (242201.46782934 6701755.66968188),242201.467829342
+Muu,,Majoitus,"Majoitus, saunat, kokous, juhlat, pitopalvelut",Kaarina,,Kavalton tila,,,https://www.kavaltontila.com/,,251,6705573.09729633,Point (252856.0056091 6705573.09729633),252856.005609102
+Muu,,Kahvila,Tapahtuma- ja tilausravintola,Sauvo,,Kalle's Backa 55,,,http://www.tappers.fi/index.php/kalles-backa-55,,252,6696628.22057783,Point (262938.00792807 6696628.22057783),262938.007928073
+Muu,,Tilamyynti,Hereford lihapuoti,Sauvo,,Salmensuun tila,,suoramyynti: herefordin liha,https://www.salmensuu.com/,,253,6694575.56448367,Point (259047.97847522 6694575.56448367),259047.978475225
+Muu,,Tilamyynti,"Luomutila, tilapuoti",Sauvo,,Wanha liesniemi,,suoramyynti: luomuvihannekset ja -marjat,,,254,6693720.86966009,Point (261727.75615922 6693720.86966009),261727.75615922
+Valtio,Muu,Nahtavyys,,Kaarina,,Kuusiston taidekartano,,,https://kuusistontaidekartano.fi/kotisivu/fi/,,255,6704988.42587306,Point (250354.71158635 6704988.42587306),250354.71158635
+Muu,,Tilamyynti,Paikallisia käsitöitä,Sauvo,,Puuhaus,,,,,256,6697364.20486772,Point (261829.87615668 6697364.20486772),261829.876156684
+Muu,,Nahtavyys,,Paimio,,"Finnfoam paippi, hiihtoputki",,,http://www.paippi.com/,,257,6706426.27568367,Point (264290.93956681 6706426.27568367),264290.939566806
+Valtio,Muu,Pysakointi_liikeste,Pysäköinti vain liikuntaesteisille,Kaarina,,Kuusiston linnanrauniot,,,,,258,6705311.6934903,Point (250797.43372004 6705311.6934903),250797.433720036
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Piikkiön linnavuoren reitistö,,,,,259,6706684.68757383,Point (255622.50081258 6706684.68757383),255622.500812584
+Muu,Muu,Pysakointialue,,Kaarina,,Piikkiön kehityksen pysäköintialue,,,,,260,6707068.08546471,Point (254619.04396907 6707068.08546471),254619.043969072
+Valtio,Muu,Pysakointialue,,Kaarina,,Kuusiston linnanrauniot ja Kappelinmäen luontopolku,,,,,261,6704949.9569,Point (250073.1729 6704949.9569),250073.172900005
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Nunnan pysäköintialue,,,,,262,6709936.89063906,Point (248985.05755295 6709936.89063906),248985.057552946
+Muu,,Pysakointialue,,Sauvo,,Hiirmetsän tonttupolku,,,,,263,6696511.87480406,Point (262624.27659656 6696511.87480406),262624.276596564
+Kunta,,Pysakointialue,,Sauvo,,Maalun pysäköintialue,,,,,264,6688171.25199415,Point (256985.11729051 6688171.25199415),256985.117290512
+Muu,,Pysakointialue,,Sauvo,,Sauvon kirkon pysäköintialue,,,,,265,6697313.79784219,Point (262633.71769804 6697313.79784219),262633.717698039
+Muu,,Pysakointialue,,Sauvo,,Sauvon kirkon pysäköintialue,,,,,266,6697270.66238242,Point (262774.460961 6697270.66238242),262774.460961005
+Kunta,,Pysakointialue,,Paimio,,Vähäjokipolun pysäköintialue,,,,,267,6710091.57573825,Point (263623.43569368 6710091.57573825),263623.435693684
+Kunta,,Pysakointialue,Paimion polun lähtöpisteen läheisyydessä,Paimio,,Paimion urheilupuisto,,,,,268,6709030.48812757,Point (263415.06994479 6709030.48812757),263415.069944795
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Rauvola,,,,,269,6705689.87796075,Point (240834.68138793 6705689.87796075),240834.681387931
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Kasarminmäki länsi,,,,,270,6704393.05841005,Point (241774.69562624 6704393.05841005),241774.695626243
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Kasarminmäki itä,,,,,271,6704150.0600938,Point (242036.12087796 6704150.0600938),242036.120877957
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Piispanlähteen yläkoulu,,,,,272,6705831.986938,Point (242371.27349238 6705831.986938),242371.273492377
+Kunta,,Polttopuuvarasto,,Kaarina,,Polttopuuvarasto,,,,,273,6705314.87507251,Point (240448.36880765 6705314.87507251),240448.36880765
+Kunta,,Tulipaikka,,Kaarina,,Laavu,,,,,274,6705105.87007867,Point (240545.97659276 6705105.87007867),240545.976592762
+Kunta,,Taukopaikka,,Kaarina,,Taukopaikka,,,,,275,6705196.97246699,Point (240734.01277559 6705196.97246699),240734.012775592
+Kunta,Kunta / muu,Luontotorni,Lintutorni,Kaarina,,Rauvolan lintutorni,,,,,276,6705896.65160209,Point (240386.12632855 6705896.65160209),240386.126328549
+Kunta,Kunta / muu,Taukopaikka,,Kaarina,,Taukopaikka,,,,,277,6703903.40518447,Point (240785.82954189 6703903.40518447),240785.829541888
+Kunta,Kunta / muu,Tulipaikka,,Kaarina,,,,,,,278,6705166.16567945,Point (242345.32673691 6705166.16567945),242345.326736915
+Kunta,Kunta / muu,Polttopuuvarasto,,Kaarina,,Polttopuuvarasto,,,,,279,6705279.65829296,Point (242157.10893536 6705279.65829296),242157.108935363
+Kunta,,Kuivakaymala,,Kaarina,,,,,,,280,6705123.11168246,Point (240549.88226769 6705123.11168246),240549.882267688
+Muu,,Tilamyynti,,Paimio,,Alanteen tilamyynti,,,https://alanteentila.fi/,,281,6718805.74388937,Point (264059.87915898 6718805.74388937),264059.879158977
+Muu,,Tilamyynti,suoramyynti: vihannekset,Sauvo,,Kamparsin luomutila,,suoramyynti: vihannekset,,,282,6690893.06000963,Point (255640.07539109 6690893.06000963),255640.075391093
+Kunta,,Uimaranta,,Sauvo,,Marjaniemi,,,,,283,6691663.1332175,Point (271654.46212396 6691663.1332175),271654.462123955
+Muu,,Uimaranta,,Sauvo,,Sarapisto,,,,,284,6686999.1390095,Point (264559.53237093 6686999.1390095),264559.532370925
+Muu,,Tilamyynti,suoramyynti: vihanneksia ja marjoja,Sauvo,,Alholan tilapuoti,,suoramyynti: vihanneksia ja marjoja,,,285,6689058.01598292,Point (265230.48114331 6689058.01598292),265230.481143308
+Muu,,Tilamyynti,,Sauvo,,Kankaanrannan puutarha,,"kukkakauppa, marjoja, vihanneksi",,,286,6697666.47358969,Point (261884.22987407 6697666.47358969),261884.229874071
+Muu,,Tilamyynti,suoramyynti,Sauvo,,Niemelän tila,,suoramyynti: marjoja ja kasviksia,,,287,6693580.02224126,Point (269487.92215654 6693580.02224126),269487.922156537
+Muu,,Tilamyynti,suoramyynti: kukat ja taimet,Sauvo,,Salmin puutarha,,suoramyynti: kukat ja taimet,,,288,6694891.62468587,Point (263647.4513807 6694891.62468587),263647.4513807
+Muu,,Tilamyynti,"sauvolaisia vihanneksi ja marjoja, savulohta",Sauvo,,Sauvon RajaPuoti,,"sauvolaisia vihanneksi ja marjoja, savulohta",,,289,6700508.77138333,Point (261430.78720124 6700508.77138333),261430.787201243
+Muu,,Tilamyynti,mansikan suoramyynti,Sauvo,,Uotkullan tila,,mansikan suoramyynti,,,290,6694768.82396025,Point (259258.15643342 6694768.82396025),259258.156433424
+Muu,,Tilamyynti,suoramyynti: puutarhakasvikset,Sauvo,,Peuravaaran puutarha,,suoramyynti,,,291,6694406.92935853,Point (262513.20382764 6694406.92935853),262513.20382764
+Kunta,,Portaat,Maastoportaat,Kaarina,,Portaat,,,,,292,6705302.11317357,Point (240461.75235451 6705302.11317357),240461.752354507
+Kunta,Kunta / muu,Laavu,,Kaarina,,,,,,,293,6705105.43407191,Point (240536.53174506 6705105.43407191),240536.531745064
+Kunta,Kunta / muu,Opastaulu,Luontotaulu,Kaarina,,,,,,,294,6704582.50970729,Point (242121.59366287 6704582.50970729),242121.593662871
+Kunta,Kunta / muu,Vesillelasku,,Kaarina,,,Kuuslahden uimapaikka,,,,295,6703576.79286315,Point (243107.06751203 6703576.79286315),243107.067512028
+Kunta,Kunta / muu,Pysakointialue,,Kaarina,,Kuuslahden uimapaikka,,,,,296,6703475.28280084,Point (243081.33589158 6703475.28280084),243081.335891583
+Kunta,Kunta / muu,Uimaranta,,Kaarina,,Kuuslahden uimapaikka,,,,,297,6703566.1697171,Point (243105.41502264 6703566.1697171),243105.415022639
+Kunta,Kunta / muu,Uimaranta,,Kaarina,,Harvaluodon uimaranta,,,,,298,6701112.93118784,Point (252820.63619594 6701112.93118784),252820.636195938
+Kunta,Kunta / muu,Tulipaikka,Grillikatos,Kaarina,,Harvaluodon virkistysalue,,,,,299,6701111.9869082,Point (252752.41199127 6701111.9869082),252752.411991268
+Valtio,Muu,Nahtavyys,,Kaarina,,Kuusiston Piispanlinnan vierailukeskus,,,http://ohjelmapalvelucastrum.net/,,300,6705333.82187587,Point (250797.04490718 6705333.82187587),250797.044907178
+Valtio,Muu,Kuivakaymala,"Esteetön sähköwc, avoinna kesäkaudella",Kaarina,,,,,https://www.luontoon.fi/kuusisto,,301,6705357.82231696,Point (250759.19503123 6705357.82231696),250759.195031235
+Kunta,Kunta / liikuntatoimi,Aktiviteetti,Frisbeegolfrata,Kaarina,,,,,,,302,6701072.56906291,Point (252683.85845397 6701072.56906291),252683.858453973
+Kunta,Kunta / muu,Vesillelasku,,Kaarina,,,Raadelman uimaranta,,,,303,6705958.29528332,Point (250144.6088729 6705958.29528332),250144.608872904
+Kunta,Kunta / muu,Rantautuminen,,Kaarina,,Hovirinnan uimaranta,,,,,304,6704420.7282279,Point (245502.20369988 6704420.7282279),245502.20369988
+Kunta,Kunta / muu,Tulipaikka,Grillikatos,Kaarina,,Kuuslahden uimapaikka,,,,,305,6703598.34225788,Point (243117.86261238 6703598.34225788),243117.862612379
+Muu,Muu,Nahtavyys,,Kaarina,,Kuusiston kirkko,,,,,306,6702732.68263283,Point (247139.14161616 6702732.68263283),247139.141616164
+Kunta,Kunta / muu,Aktiviteetti,,Kaarina,,BMX -rata,,,,,307,6703913.38192751,Point (245994.62805027 6703913.38192751),245994.628050268
+Kunta,Kunta / muu,Rantautuminen,,Kaarina,Littoistenjärven melontareitti,Ristikallion uimaranta,,,,,308,6710062.2978475,Point (246865.55698892 6710062.2978475),246865.556988919
+Kunta,Kunta / muu,Vesillelasku,,Kaarina,Littoistenjärven melontareitti,,Littoistenjärven uimaranta,,,,309,6711365.73018103,Point (245822.88573185 6711365.73018103),245822.885731846
+Kunta,Kunta / muu,Luontotorni,Lintutorni,Kaarina,Littoistenjärven luontopolku,,Littoistenjärvi,,,,310,6711556.17156806,Point (246327.06111787 6711556.17156806),246327.061117872
+Kunta,Kunta / muu,Luontotorni,Lintulava,Kaarina,,Järvelän kosteikko,,,,,311,6711871.67754861,Point (246031.14019669 6711871.67754861),246031.140196692
+Kunta,Kunta / muu,Laavu,,Kaarina,Nunnan luontopolku,,,,,,312,6710196.03582448,Point (248892.98368458 6710196.03582448),248892.983684581
+Kunta,Kunta / muu,Aktiviteetti,Nunnan frisbeegolfrata,Kaarina,,,,,,,313,6709951.78215522,Point (248978.59837277 6709951.78215522),248978.598372771
+Kunta,Kunta / muu,Kuivakaymala,,Kaarina,,,,,,,314,6710194.07731855,Point (248902.21664115 6710194.07731855),248902.216641149
+Kunta,Kunta / muu,Tulipaikka,grillikatos,Kaarina,,,,,,,315,6709957.37788648,Point (248968.52605652 6709957.37788648),248968.526056519
+Kunta,Kunta / muu,Polttopuuvarasto,,Kaarina,Piikkiön linnavuoren reitistö,,,,,,316,6707052.49389904,Point (254630.56672628 6707052.49389904),254630.566726279
+Kunta,Kunta / muu,Kierratys,,Kaarina,,,,,,,317,6707050.25560653,Point (254598.67105813 6707050.25560653),254598.671058132
+Kunta,Kunta / muu,Laavu,,Kaarina,,,,,,,318,6706832.30187417,Point (255398.86062751 6706832.30187417),255398.860627512
+Kunta,Kunta / muu,Kuivakaymala,,Kaarina,,,,,,,319,6706851.60714701,Point (255401.37870658 6706851.60714701),255401.378706576
+Kunta,Kunta / muu,Nahtavyys,muinaisjäännösalue,Kaarina,,,Kolamäki,,,,320,6707163.56916444,Point (252713.18941196 6707163.56916444),252713.189411957
+Kunta,Kunta / muu,Nahtavyys,muinaisjäännösalue,Kaarina,,Huttalanmäen rautakautinen kalmisto,,,,,321,6707428.94671918,Point (254237.32671238 6707428.94671918),254237.326712381
+Kunta,Kunta / muu,Luonnonnahtavyys,Huttalanmäen kallioketo,Kaarina,,Perinnemaisema kohde,,,,,322,6707444.61476669,Point (254129.04931261 6707444.61476669),254129.049312611
+Kunta,Kunta / muu,Luonnonnahtavyys,Hadvalan niityt,Kaarina,,Perinnemaisemakohde,,,,,323,6707119.08310096,Point (252701.99794945 6707119.08310096),252701.997949449
+Kunta,Kunta / muu,Opastaulu,Luontopolun opastaulu,Kaarina,,Rauhalinnan luontopolku,,,,,324,6704779.93607922,Point (246226.45420998 6704779.93607922),246226.45420998
+Kunta,Kunta / muu,Uimaranta,Oleskelulaituri,Kaarina,,Rauhalinnan luontopolku,,,,,325,6704891.65980105,Point (246593.39424371 6704891.65980105),246593.394243708
+Kunta,Kunta / muu,Opastaulu,Luontopolun opastaulu,Kaarina,,Rauhalinnan luontopolku,,,,,326,6705171.06516324,Point (246573.16975255 6705171.06516324),246573.169752555
+Kunta,Kunta / muu,Opastaulu,Luontopolun opastaulu,Kaarina,,Rauhalinnan luontopolku,,,,,327,6705267.47206405,Point (246242.0679363 6705267.47206405),246242.067936302
+Muu,Muu,Nahtavyys,Huom! yksityisomistuksessa,Kaarina,,Rauhalinnan kartano,,,,,328,6705013.07660802,Point (246429.50251231 6705013.07660802),246429.50251231
+Kunta,Kunta / muu,Luonnonnahtavyys,Rauhalinnan lehto,Kaarina,,Rauhalinnan lehtometsä,,,,,329,6704992.01379601,Point (246240.32143447 6704992.01379601),246240.321434473
+Kunta,Kunta / muu,Esteeton,,Kaarina,Tuorlan esteetön luontopolku,,,,https://tammireitit.fi/tuorlanesteeton,,330,6706321.0318258,Point (249204.34461408 6706321.0318258),249204.34461408
+Muu,Muu,Tulipaikka,Ylläpitäjä Ammattiopisto Livia,Kaarina,,,,,,,331,6706290.29339366,Point (249236.75968798 6706290.29339366),249236.759687979
+Kunta,Kunta / muu,Esteeton,Helppokulkuinen osuus,Kaarina,Rauhalinnan luontopolku,,,,https://tammireitit.fi/rauhalinnanluontopolku,,332,6704910.13779038,Point (246383.67430439 6704910.13779038),246383.674304387
+Valtio,Muu,Esteeton,"Ylläpitäjä Metsähallitus, https://www.luontoon.fi/kuusisto",Kaarina,,Kuusiston linnanrauniot,,,https://tammireitit.fi/kuusistonesteeton,,333,6705382.11244394,Point (250802.88280573 6705382.11244394),250802.88280573
+Muu,Yksityinen / yhdistys,Nakoala,Maalun näköalatorni,Sauvo,,,,,,,334,6688060.01584715,Point (256984.09100964 6688060.01584715),256984.091009637
+,,Kahvila,Ilmaristen Grilli,Lieto,Kuuden kunnanosan kierros,,Ilmarinen,,,,335,6716786.9032942,Point (246521.36962397 6716786.9032942),246521.369623967
+Säätiö,,Portaat,,Lieto,Vanhalinnan kulttuuri- ja luontopolut,Vanhalinnan linnavuori,Vanhalinna,,,,336,6714469.74521422,Point (246149.16810968 6714469.74521422),246149.168109676
+,,Rantautuminen,,Lieto,Aurajoen melontareitti,,Nautelankoski,,,,337,6722400.96662982,Point (250968.57836753 6722400.96662982),250968.578367528
+,,Rantautuminen,,Lieto,Aurajoen melontareitti,,Nautelankoski,,,,338,6721879.88379331,Point (251123.35196784 6721879.88379331),251123.351967843
+,,Ohituspolku,Lakokosken ohitus (ei polkua),Lieto,Aurajoen melontareitti,,Lakokoski,,,,339,6721318.33487972,Point (250932.82311779 6721318.33487972),250932.823117794
+,,Ohituspolku,Ohituspolun pituus 700 m,Lieto,Aurajoen melontareitti,Nautelankosken ohituspolku,Nautelankoski,,,,340,6722143.20859542,Point (251021.86439738 6722143.20859542),251021.864397384
+,,Rantautuminen,,Lieto,Aurajoen melontareitti,,Vierunkoski,,,,341,6715868.36342192,Point (249171.07630775 6715868.36342192),249171.076307752
+,,Rantautuminen,,Lieto,Aurajoen melontareitti,,Vierunkoski,,,,342,6715818.38091878,Point (248964.46785001 6715818.38091878),248964.467850012
+,,Rantautuminen,,Lieto,Aurajoen melontareitti,,Vääntelänkoski,,,,343,6715448.85698744,Point (248160.179857 6715448.85698744),248160.179857
+,,Rantautuminen,,Lieto,Aurajoen melontareitti,,Vääntelänkoski,,,,344,6715328.19753452,Point (248142.38560636 6715328.19753452),248142.385606365
+,,Ohituspolku,Ohituspolun pituus 200 m,Lieto,Aurajoen melontareitti,Vierunkosken ohituspolku,Vierunkoski,,,,345,6715850.23091771,Point (249059.10221851 6715850.23091771),249059.102218508
+,,Ohituspolku,Ohituspolun pituus 200 m,Lieto,Aurajoen melontareitti,Vääntelänkosken ohituspolku,Vääntelänkoski,,,,346,6715388.0901922,Point (248178.62048555 6715388.0901922),248178.620485555
+,,Nahtavyys,,Lieto,Kuuden kunnanosan kierros,Kuninkaanlähde,Vanha Härkätie,,,,347,6713861.0432085,Point (245698.55233733 6713861.0432085),245698.552337334
