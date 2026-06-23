@@ -37,6 +37,7 @@ In this case, the focus is on **outdoor sports and hiking locations**, specially
 First, perform a spatial matching step in QGIS using **Join Attributes by Nearest**. <br>
 **Set it up like this:**
 - **Input layer** = your dataset (source points)
+     - Note: Any null geometries in your dataset must be removed before performing the spatial distance search.
 - **Join layer** = Lipas points
 - Fields to transfer from the LIPAS layer (at least you can choose more if you like): 
     - ```id``` 
